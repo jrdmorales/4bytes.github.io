@@ -23,7 +23,7 @@ img {
   background-size: cover; /* Ajustar la imagen al tamaño de la sección */
   background-position: center center; /* Posicionar la imagen en el centro */
   background-repeat: no-repeat;
-  color: rgb(241, 222, 222);
+  color:rgb(0, 0, 0);
   padding: 80px 0px;
   display: flex;
   align-items: center;
