@@ -19,7 +19,7 @@ img {
   margin: 0 auto;
 }
 .header {
-  background-image: url("img/fondo.jpg");
+  background-image: url("/img/fondo.jpg");
   background-size: cover; /* Ajustar la imagen al tamaño de la sección */
   background-position: center center; /* Posicionar la imagen en el centro */
   background-repeat: no-repeat;
